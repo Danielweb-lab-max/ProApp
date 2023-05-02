@@ -1,0 +1,299 @@
+{
+  "project_info": {
+    "project_number": "391299946628",
+    "firebase_url": "https://betapp-baf8c-default-rtdb.firebaseio.com",
+    "project_id": "betapp-baf8c",
+    "storage_bucket": "betapp-baf8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391299946628:android:4dc98c6167c9a16ec3cad1",
+        "android_client_info": {
+          "package_name": "com.betApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391299946628-60b9gi8cudefjrmujijneitvopjqqkr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7NQ5hAmOdMgKYEiwilDLXiKw7U_z49uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391299946628-60b9gi8cudefjrmujijneitvopjqqkr5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391299946628-amujtdpaa1gsrcnb72bvopqje5q6ac2l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.danielndungo.freeRollover"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391299946628:android:8efa2fbb6a03d13dc3cad1",
+        "android_client_info": {
+          "package_name": "com.daily_rollover_proApp.daily_rollover_proapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391299946628-60b9gi8cudefjrmujijneitvopjqqkr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7NQ5hAmOdMgKYEiwilDLXiKw7U_z49uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391299946628-60b9gi8cudefjrmujijneitvopjqqkr5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391299946628-amujtdpaa1gsrcnb72bvopqje5q6ac2l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.danielndungo.freeRollover"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391299946628:android:62dee5fb582d4686c3cad1",
+        "android_client_info": {
+          "package_name": "com.dan.test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391299946628-60b9gi8cudefjrmujijneitvopjqqkr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7NQ5hAmOdMgKYEiwilDLXiKw7U_z49uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391299946628-60b9gi8cudefjrmujijneitvopjqqkr5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391299946628-amujtdpaa1gsrcnb72bvopqje5q6ac2l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.danielndungo.freeRollover"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391299946628:android:829b8cecd4e0e967c3cad1",
+        "android_client_info": {
+          "package_name": "com.dan68.profile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391299946628-60b9gi8cudefjrmujijneitvopjqqkr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7NQ5hAmOdMgKYEiwilDLXiKw7U_z49uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391299946628-60b9gi8cudefjrmujijneitvopjqqkr5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391299946628-amujtdpaa1gsrcnb72bvopqje5q6ac2l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.danielndungo.freeRollover"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391299946628:android:f6ebe2f40e19299dc3cad1",
+        "android_client_info": {
+          "package_name": "com.danielndungo68.daily_rollover_tips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391299946628-60b9gi8cudefjrmujijneitvopjqqkr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7NQ5hAmOdMgKYEiwilDLXiKw7U_z49uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391299946628-60b9gi8cudefjrmujijneitvopjqqkr5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391299946628-amujtdpaa1gsrcnb72bvopqje5q6ac2l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.danielndungo.freeRollover"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391299946628:android:b33ca11ddfc72742c3cad1",
+        "android_client_info": {
+          "package_name": "com.twoplus.free_2_rollover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391299946628-60b9gi8cudefjrmujijneitvopjqqkr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7NQ5hAmOdMgKYEiwilDLXiKw7U_z49uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391299946628-60b9gi8cudefjrmujijneitvopjqqkr5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391299946628-amujtdpaa1gsrcnb72bvopqje5q6ac2l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.danielndungo.freeRollover"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391299946628:android:ffdde17dfc60d437c3cad1",
+        "android_client_info": {
+          "package_name": "com.twoplus.free_rollover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391299946628-60b9gi8cudefjrmujijneitvopjqqkr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7NQ5hAmOdMgKYEiwilDLXiKw7U_z49uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391299946628-60b9gi8cudefjrmujijneitvopjqqkr5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391299946628-amujtdpaa1gsrcnb72bvopqje5q6ac2l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.danielndungo.freeRollover"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391299946628:android:46b82388becd2249c3cad1",
+        "android_client_info": {
+          "package_name": "com.twoplus.free_rollover_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391299946628-60b9gi8cudefjrmujijneitvopjqqkr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7NQ5hAmOdMgKYEiwilDLXiKw7U_z49uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391299946628-60b9gi8cudefjrmujijneitvopjqqkr5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391299946628-amujtdpaa1gsrcnb72bvopqje5q6ac2l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.danielndungo.freeRollover"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
